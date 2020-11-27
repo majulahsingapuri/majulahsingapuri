@@ -50,19 +50,6 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majulahsingapuri&show_icons=true&locale=en&layout=compact" alt="majulahsingapuri" />
-</p>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 <details>
@@ -78,5 +65,12 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Bhargav's GitHub Stats" src="https://github-readme-stats.majulahsingapuri.vercel.app/api?username=majulahsingapuri&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majulahsingapuri&show_icons=true&locale=en&layout=compact" alt="majulahsingapuri" />
 
 </details>
