@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhargav Singapuri</h1>
 
-<!-- Change to my personal github page -->
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
-![Twitter Follow](https://img.shields.io/twitter/follow/majulasingapuri?color=1DA1F2&label=Tweet%20me&logo=Twitter&style=for-the-badge)
+<!-- Add GitHubPages -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/majulasingapuri?color=1DA1F2&label=Tweet%20me&logo=Twitter&style=for-the-badge)][Twitter]
 ![GitHub followers](https://img.shields.io/github/followers/majulahsingapuri?style=for-the-badge)
 
 ## I'm a Student, Developer, and Teacher! 👨🏽‍🎓
@@ -74,3 +73,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=majulahsingapuri&show_icons=true&locale=en&layout=compact" alt="majulahsingapuri" />
 
 </details>
+
+[Twitter]: https://twitter.com/majulasingapuri
