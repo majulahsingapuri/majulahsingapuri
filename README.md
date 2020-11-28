@@ -6,7 +6,8 @@
 
 ## I'm a Student, Developer, and Teacher! 👨🏽‍🎓
 
-- 📚 Currently trying to absorb as much information in school as I can.
+- 📚 Trying to absorb as much information in school as I can.
+- 🔭 I’m currently working on a School OO project, [MySTARS](https://github.com/majulahsingapuri/MySTARS)
 - 🥅 Goals for 2021 include teaching my peers about Open Source and Right to Repair.
 - 👨🏽‍💻 Ironically the tech support of my peers.
 
