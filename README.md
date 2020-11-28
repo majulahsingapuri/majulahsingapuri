@@ -8,8 +8,9 @@
 
 - 📚 Trying to absorb as much information in school as I can.
 - 🔭 I’m currently working on a School OO project, [MySTARS](https://github.com/majulahsingapuri/MySTARS)
+- 👨🏽‍🏫 I teach coding to kids in schools as a freelance trainer with [TinkerCademy](https://tk.sg).
 - 🥅 Goals for 2021 include teaching my peers about Open Source and Right to Repair.
-- 👨🏽‍💻 Ironically the tech support of my peers.
+- 👨🏽‍💻 Unironically the tech support of my peers.
 
 
 ### Spotify Playing 🎧
