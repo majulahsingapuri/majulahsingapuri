@@ -7,7 +7,7 @@
 ## I'm a Student, Developer, and Teacher! 👨🏽‍🎓
 
 - 📚 Trying to absorb as much information in school as I can.
-- 🔭 I’m currently working on a School OO project, [MySTARS](https://github.com/majulahsingapuri/MySTARS)
+- 🔭 I’m currently working on a my web portfolio, check it out [here](https://majulahsingapuri.github.io)
 - 👨🏽‍🏫 I teach coding to kids in schools as a freelance trainer with [TinkerCademy](https://tk.sg).
 - 🥅 Goals for 2021 include teaching my peers about Open Source and Right to Repair.
 - 👨🏽‍💻 Unironically the tech support of my peers.
