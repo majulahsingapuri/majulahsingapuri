@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhargav Singapuri</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/majulasingapuri?color=1DA1F2&label=Tweet%20me&logo=Twitter&style=for-the-badge)][Twitter]
-![GitHub followers](https://img.shields.io/github/followers/majulahsingapuri?style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/majulasingapuri?color=blue&label=Tweet%20me&logo=Twitter&style=for-the-badge)][Twitter]
+[![Instagram](https://img.shields.io/badge/Follow-me-blue?style=for-the-badge&logo=instagram)](https://instagr.am/majulahsingapuri)
+[![Linkedin](https://img.shields.io/badge/Connect%20with%20me-CV-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhargav-singapuri)
+![GitHub followers](https://img.shields.io/github/followers/majulahsingapuri?style=for-the-badge&label=Github%20Followers)
 
 ## I'm a Student, Developer, and Teacher! 👨🏽‍🎓
 
@@ -15,17 +17,14 @@
 
 [![Spotify](https://spotify-now-playing.majulahsingapuri.vercel.app/api/spotify)](https://open.spotify.com/user/21un2imm4rzi7e4wo6f6gqdwy?si=uW2_71rfSj-4dyNKZjl4Nw)
 
-### Connect with me:
+### Coding Sites
 
 <p align="left">
-<a href="https://linkedin.com/in/bhargav-singapuri-600aa7185" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="bhargav-singapuri-600aa7185" height="40" width="40" /></a>
-<a href="https://instagram.com/majulahsingapuri" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="majulahsingapuri" height="40" width="40" /></a>
-<a href="https://twitter.com/majulasingapuri" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1645576436~hmac=32f7f1fffddd30903f5c4319e5c6ebde" alt="majulasingapuri" height="40" width="40" /></a>
 <a href="https://kaggle.com/bhargavsingapuri" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="bhargavsingapuri" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/majulahsingapuri" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="majulahsingapuri" height="40" width="40" /></a>
 </p>
 
-### Languages and Tools:
+### Languages and Tools
 
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="40" height="40"/>
