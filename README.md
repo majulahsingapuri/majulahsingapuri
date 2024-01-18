@@ -8,10 +8,9 @@
 ## I'm a Student, Developer, and Teacher! 👨🏽‍🎓
 
 - 📚 Trying to absorb as much information in school as I can.
-- 🔭 I’m currently working on a my web portfolio, check it out [here](https://majulahsingapuri.github.io)!
-- 🥅 Goals for 2022 include teaching my peers about Open Source Software and Right to Repair, Learn more about Web3 and try my hand at a few hackathons to possibly spark off that entrepreneurship journey.
+- 🔭 I'm currently working on a my web portfolio, check it out [here](https://bhargav.io)!
+- 🥅 Goals for 2024 include teaching my peers about Open Source Software and Right to Repair, and work on my [open source Django Project](https://github.com/majulahsingapuri/dj-ninja-auth)
 - 👨🏽‍💻 Unironically the tech support of my peers.
-
 
 ### Spotify Playing 🎧
 
@@ -26,7 +25,7 @@
 
 ### Languages and Tools
 
-<p align="left"> 
+<p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" alt="swift" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="c" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cplusplus" width="40" height="40"/>
@@ -39,11 +38,11 @@
 <img src="https://www.clipartkey.com/mpngs/m/145-1450089_python-flask-icon.png" alt="flask" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="40" height="40"/> 
-<img src="https://img.icons8.com/color/48/000000/xcode.png" alt="XCode" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" width="40" height="40"/> 
-<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/xcode.png" alt="XCode" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter-notebook" width="40" height="40"/>
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="GitHub" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
