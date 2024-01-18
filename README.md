@@ -57,6 +57,12 @@
 ## Github Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/majulahsingapuri/dj-ninja-auth/pull/1) in [majulahsingapuri/dj-ninja-auth](https://github.com/majulahsingapuri/dj-ninja-auth)
+2. 💪 Opened PR [#1](https://github.com/majulahsingapuri/dj-ninja-auth/pull/1) in [majulahsingapuri/dj-ninja-auth](https://github.com/majulahsingapuri/dj-ninja-auth)
+3. 🗣 Commented on [#1112](https://github.com/reactchartjs/react-chartjs-2/issues/1112#issuecomment-1857352569) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
+4. 🎉 Merged PR [#20](https://github.com/majulahsingapuri/capstone3/pull/20) in [majulahsingapuri/capstone3](https://github.com/majulahsingapuri/capstone3)
+5. 🎉 Merged PR [#8](https://github.com/majulahsingapuri/capstone3/pull/8) in [majulahsingapuri/capstone3](https://github.com/majulahsingapuri/capstone3)
+<!--END_SECTION:activity-->
 
 <details>
   <summary>GitHub Stats</summary>
